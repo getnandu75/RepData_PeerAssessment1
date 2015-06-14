@@ -2,6 +2,6 @@
 
 Reproducible Research: Peer Assessment 1
 Loading and preprocessing the data
-
 unzip("activity.zip")
 activity <- read.csv("activity.csv")
+What is mean total number of steps taken per day?
